@@ -81,7 +81,7 @@ que você digitou na lista por 4.**
 (\x -> (x * x)) 100
 (\x y -> x /y) 10 2
 (\x1 y1 -> y1 : x1) [] "Lambda"
-foldl (\x1 y1 -> y1 ": x1) [] "Lambda Russa!"
+foldl (\x1 y1 -> y1 : x1) [] "Lambda Russa!"
 ```
 **Esses são alguns exemplos de como é uma lambda em haskell, elas servem para cálculos, como disse você usa e depois sai mais cedo,não precisa definir,mas se quiser pode.**
 Definindo uma lambda ->
