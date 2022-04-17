@@ -4,7 +4,7 @@
 
 **Haskell é uma linguagem de paradigma funcional, fortemente tipada e estática.**
 
-Toda linguagem com paradigma funcional é imutável e usa expressões matemática, não tem efeitos colaterais, evita bugs.
+Toda linguagem com paradigma funcional é imutável e usa expressões matemática, não têm efeitos colaterais, evita bugs.
 
 Haskell tem laziness que seria processamento preguiçoso, ele não calcula coisas desnecessárias, só o que é preciso.
 
