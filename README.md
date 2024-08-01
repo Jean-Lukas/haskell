@@ -1,14 +1,12 @@
-![image](https://haskell.pesquisa.ufabc.edu.br/cursos/Haskell2018/imgs/haskell_logo.png)
+## O que é Haskell?
 
-# O que é Haskell
+**Haskell é uma linguagem de programação de paradigma funcional, fortemente tipada e estática.**
 
-**Haskell é uma linguagem de paradigma funcional, fortemente tipada e estática.**
+Toda linguagem com paradigma funcional é imutável e utiliza expressões matemáticas, não possui efeitos colaterais e ajuda a evitar bugs.
 
-Toda linguagem com paradigma funcional é imutável e usa expressões matemática, não têm efeitos colaterais, evita bugs.
+Haskell possui *laziness* (ou processamento preguiçoso), o que significa que ele não calcula coisas desnecessárias, realizando apenas os cálculos necessários.
 
-Haskell tem laziness que seria processamento preguiçoso, ele não calcula coisas desnecessárias, só o que é preciso.
-
-Haskell não é uma linguagem para iniciantes! se você for bastante curioso e inteligente, mesmo ela sendo diferente de todas linguagens você poderá compreendê-la com o tempo,e seu conhecimento vai se expandir bastante.
+Haskell não é uma linguagem para iniciantes! No entanto, se você for bastante curioso e inteligente, mesmo que ela seja diferente de todas as outras linguagens, você poderá compreendê-la com o tempo, e seu conhecimento se expandirá bastante.
 
 # Como instalar o Haskell no Linux
 
